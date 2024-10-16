@@ -2,13 +2,27 @@ body {
     color:white;
     background:pink;
     margin: 0px;
-}   
+   font-family: "Playfair Display", serif;
+}
+
+
 
 header {
      border-bottom: solid 2px rgb(250, 248, 248);
      padding:20px;
      font-size: 30px;
      color: rgb(253, 149, 222)
+}
 
 
+section {
+    background-color: palevioletred;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
